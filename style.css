@@ -1,0 +1,31 @@
+
+.container{
+    height: 325px;
+    width: 650px;
+    border: 5px solid rgb(25,162,184);
+    margin: 200px 200px;
+}
+
+.tophead{
+    height: 90px;
+    width: 650px;
+    background-color: rgb(25,162,184);
+    margin-top: 0%;
+}
+
+.middleinfo{
+    padding: 10px 10px;
+    margin: 10px 10px;
+    font-weight: bold;
+    
+}
+
+.edit{
+    color: blue;
+    text-decoration: underline;
+}
+
+#user{
+    padding: 40px 25px;
+    height: 100%;
+}
